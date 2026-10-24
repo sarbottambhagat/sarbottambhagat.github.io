@@ -16,7 +16,7 @@ permalink: /applied-data-science/
 <p>Meaningful analysis begins with a well-defined problem and an understanding of the underlying data. My work emphasizes data preparation, exploratory analysis, identifying relevant patterns, and evaluating whether available information is appropriate for the questions being investigated.</p>
 <p>I approach analytical work as a process of connecting business or research questions with suitable evidence and methods, rather than applying techniques without considering their purpose.</p>
 <h3>Predictive and Exploratory Analytics</h3>
-<p>Predictive and exploratory methods provide different ways to understand patterns, relationships, and potential outcomes. My work includes classification, regression, clustering, and model evaluation, with particular attention to selecting appropriate analytical approaches, assessing model performance, and interpreting findings in context.</p>
+<p>Predictive and exploratory methods provide different ways to understand patterns, relationships, and potential outcomes. My approach to machine learning is guided by the CRISP-DM framework, emphasizing the full analytical process—from understanding business problems and preparing data to developing, evaluating, and interpreting models.</p>
 <p>I emphasize the distinction between a model that performs well according to a statistical metric and one that produces meaningful, useful, and defensible insights.</p>
 <h3>Text Analytics and Information Representation</h3>
 <p>Textual information presents analytical challenges that differ from those encountered with structured data. My work explores how textual information can be represented, compared, and analyzed for tasks such as classification and semantic similarity.</p>
