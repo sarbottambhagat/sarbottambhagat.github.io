@@ -5,7 +5,6 @@ slug: applied-data-science
 permalink: /applied-data-science/
 ---
 <section class="section"><div class="wrap content">
-<div class="eyebrow">Analytical Reasoning · Evidence · Evaluation</div>
 <h1>Applied Data Science &amp; AI</h1>
 <nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#overview">Overview</a></li><li><a href="#expertise">Areas of Expertise</a></li><li><a href="#applications">Applications</a></li><li><a href="#connections">Research & Education</a></li></ul></nav>
 <h2 id="overview">From Data to Informed Decisions</h2>
