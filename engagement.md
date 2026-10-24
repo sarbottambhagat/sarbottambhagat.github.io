@@ -1,0 +1,7 @@
+---
+layout: default
+title: Engagement & Collaboration
+slug: engagement
+permalink: /engagement/
+---
+<section class="section"><div class="wrap content"><div class="eyebrow">Professional Engagement</div><h1>Engagement & Collaboration</h1><p class="lead">I connect scholarly research with professional practice and responsible AI education.</p><h2>Academic and professional service</h2><p>Mini-track Chair, “Building Information Systems for Whole Community Disaster Resilience: Privacy, Security and Trust Issues,” AMCIS (2025–2027). I also serve as a journal and conference reviewer and participate in university AI initiatives.</p><h2>Applied AI engagement</h2><p>Served as a subject matter expert for the Royal Credit Union AI Innovation Lab in 2024, alongside university and college service related to AI.</p><h2>Professional education</h2><p>Scheduled to serve as an instructor for UW–Eau Claire Continuing Education’s <em>Responsible AI in the Workplace – AI: Foundations, Ethics and Practical Skills</em> module in Spring 2027. The module addresses AI reliability, information quality, bias, privacy, intellectual property, and organizational responsibility.</p><h2>Collaborate</h2><p>I welcome discussions about behavioral IS research, human–AI interaction, information quality, and applied analytics education.</p><p><a href="mailto:BhagatS@uwec.edu">Contact me by email →</a></p></div></section>

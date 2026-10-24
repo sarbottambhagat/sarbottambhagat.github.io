@@ -1,0 +1,7 @@
+---
+layout: default
+title: Teaching & Curriculum
+slug: teaching
+permalink: /teaching/
+---
+<section class="section"><div class="wrap content"><div class="eyebrow">Teaching</div><h1>Teaching & Curriculum</h1><p class="lead">I connect Information Systems theory with hands-on analytical work and business decision-making.</p><h2>Curriculum development</h2><div class="pub"><h3>IS 480 — Advanced Business Analytics</h3><p>Initiated and developed this upper-division course for the BBA curriculum and Business Analytics certificate. The course emphasizes Python, machine learning, text analytics, and applied evaluation.</p></div><div class="pub"><h3>IS 360 — AI Systems in Business</h3><p>Initiated and developed this undergraduate course, approved for inclusion in the College of Business BBA curriculum. Scheduled for Spring 2027.</p></div><h2>Additional teaching areas</h2><p>Business process modeling, systems development, Information Systems for Business, database management, and Python scripting.</p><h2>Teaching approach</h2><p>Students should learn not only how to run analytical tools, but also how to select appropriate methods, question outputs, and communicate defensible conclusions.</p></div></section>

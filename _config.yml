@@ -1,0 +1,8 @@
+title: Sarbottam Bhagat, PhD
+description: Behavioral Information Systems Researcher and Applied Data Scientist
+url: "https://sarbottambhagat.github.io"
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
