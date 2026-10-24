@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About & CV
+title: About Me
 slug: about
 permalink: /about/
 ---
