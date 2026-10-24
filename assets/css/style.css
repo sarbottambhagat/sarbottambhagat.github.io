@@ -62,3 +62,23 @@ p{margin:0 0 16px}
  .brand-name{font-size:1rem}
  .brand-role{font-size:.64rem}
 }
+
+/* Header: keep navigation as one unit until it needs its own row */
+.nav{gap:24px}
+.brand{flex:0 1 475px;max-width:475px}
+.links{flex:0 0 auto;flex-wrap:nowrap;gap:clamp(12px,1.4vw,19px);align-items:center}
+.links a{font-size:.84rem;white-space:nowrap;line-height:1.4}
+@media(max-width:1100px){
+ .nav{flex-direction:column;align-items:flex-start;gap:15px;padding-top:17px;padding-bottom:17px}
+ .brand{flex:none;max-width:100%}
+ .links{width:100%;flex-wrap:wrap;gap:10px 19px}
+}
+@media(max-width:680px){
+ .links{gap:10px 15px}
+ .links a{font-size:.82rem}
+}
+/* More restrained internal page heading scale */
+.content>h1{font-size:clamp(2rem,3.2vw,2.35rem);line-height:1.2;margin-bottom:22px}
+.content>h2{font-size:clamp(1.4rem,2.2vw,1.6rem)}
+.content>h3{font-size:1.13rem}
+.content>.lead{font-size:1.08rem}
