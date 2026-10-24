@@ -31,22 +31,22 @@ permalink: /research/
 <div class="pub"><strong>From Game to Beyond Game (2025)</strong> — <em>Decision Support Systems</em><p>This study investigates how rendering technology and user needs relate to immersion and virtual consumption in metaverse environments, extending the study of digital behavior to immersive technology experiences.</p></div>
 <h2 id="research-grants">Research Grants &amp; Funding</h2>
 <p>My research has received $31,000 in internal funding through four College of Business Research Grants at the University of Wisconsin–Eau Claire (2024–2026).</p>
-<div class="pub"><h3>Navigating AI Teaching Assistants: How Perceptions and Interactions Shape Student Engagement, Cognition, and Learning</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Co-Principal Investigator · Summer 2026 · $8,000</p></div>
-<div class="pub"><h3>Understanding Antecedents of AI Healthcare Assistant Adoption</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2026 · $8,000</p></div>
-<div class="pub"><h3>Mitigating the Propagation of Fake News: Understanding Factors Shaping Information Verification Behavior</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2025 · $8,000</p></div>
-<div class="pub"><h3>Cybersecurity Awareness and Adaptive Behavior: Does Prior Exposure Lead to Adaptive Behavior?</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2024 · $7,000</p></div>
+<div class="pub grant-entry"><h3>Navigating AI Teaching Assistants: How Perceptions and Interactions Shape Student Engagement, Cognition, and Learning</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Co-Principal Investigator · Summer 2026 · $8,000</p></div>
+<div class="pub grant-entry"><h3>Understanding Antecedents of AI Healthcare Assistant Adoption</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2026 · $8,000</p></div>
+<div class="pub grant-entry"><h3>Mitigating the Propagation of Fake News: Understanding Factors Shaping Information Verification Behavior</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2025 · $8,000</p></div>
+<div class="pub grant-entry"><h3>Cybersecurity Awareness and Adaptive Behavior: Does Prior Exposure Lead to Adaptive Behavior?</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2024 · $7,000</p></div>
 <h2 id="journal-articles">Published Journal Articles</h2>
-<h3>2026</h3>
+<h3 class="publication-year">2026</h3>
 <div class="pub">Bhagat, S., &amp; Pravin, D. P. (2026). Understanding Protective Cybersecurity Behaviors: Effects of Education, Experience, and Awareness. <em>Information Systems Management</em>. <a href="https://doi.org/10.1080/10580530.2026.2647719">DOI ↗</a></div>
-<h3>2025</h3>
+<h3 class="publication-year">2025</h3>
 <div class="pub">Bhagat, S., Torres, R. A., &amp; Kim, D. J. (2025). Curbing Dissemination of Fake News: Role of Information Verification Cost, Trust in Information, Truth-Seeking, and Fake News Awareness on Information Verification Behavior. <em>ACM SIGMIS Database</em>, 56(2), 31–58. <a href="https://doi.org/10.1145/3733612.3733616">DOI ↗</a></div>
 <div class="pub">Jozani, M., Williams, J. A., Aleroud, A., &amp; Bhagat, S. (2025). Emotional and Informational Dynamics in Question-Response Pairs in Online Health Communities: A Multimodal Deep Learning Approach. <em>Information Systems Frontiers</em>. <a href="https://doi.org/10.1007/s10796-024-10566-y">DOI ↗</a></div>
 <div class="pub">Zhang, G., Bhagat, S., Lee, S. H., Kim, D. W., &amp; Kim, D. J. (2025). From Game to Beyond Game: Exploring the Role of 3D Rendering Technology in User Immersion and Virtual Consumption in the Metaverse. <em>Decision Support Systems</em>, 189, 114383. <a href="https://doi.org/10.1016/j.dss.2024.114383">DOI ↗</a></div>
-<h3>2024</h3>
+<h3 class="publication-year">2024</h3>
 <div class="pub">Bhagat, S., &amp; Kim, D. J. (2024). Explicating Geo-Tagging Behavior on Social Media: Role of Interpersonal Competence, Self-Regulation, Online Affiliation, and Privacy Calculus. <em>ACM SIGMIS Database</em>, 55(1), 12–34. <a href="https://doi.org/10.1145/3645057.3645060">DOI ↗</a></div>
-<h3>2023</h3>
+<h3 class="publication-year">2023</h3>
 <div class="pub">Bhagat, S., &amp; Kim, D. J. (2023). Examining users' news sharing behaviour on social media: role of perception of online civic engagement and dual social influences. <em>Behaviour &amp; Information Technology</em>, 42(8), 1194–1215. <a href="https://doi.org/10.1080/0144929X.2022.2066019">DOI ↗</a></div>
-<h3>2020</h3>
+<h3 class="publication-year">2020</h3>
 <div class="pub">Bhagat, S., &amp; Kim, D. J. (2020). Higher Education Amidst COVID-19: Challenges and Silver Lining. <em>Information Systems Management</em>. <a href="https://doi.org/10.1080/10580530.2020.1824040">DOI ↗</a></div>
 <div class="pub">Bhagat, S., Jeong, E. J., &amp; Kim, D. J. (2020). The Role of Individuals' Need for Online Social Interactions and Interpersonal Incompetence in Digital Game Addiction. <em>International Journal of Human–Computer Interaction</em>, 36(5), 449–463. <a href="https://doi.org/10.1080/10447318.2019.1654696">DOI ↗</a></div>
 <p>For conference papers, other research outputs, and updated citation information, visit my <a href="https://scholar.google.com/citations?user=XibMQWIAAAAJ&amp;hl=en">Google Scholar profile</a> or consult my <a href="{{ '/assets/css/Bhagat_CV.pdf' | relative_url }}">academic CV</a>.</p>
