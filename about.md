@@ -5,10 +5,7 @@ slug: about
 permalink: /about/
 ---
 <section class="section"><div class="wrap content">
-<h1>Sarbottam Bhagat, PhD, MBA</h1>
-<p class="lead">Associate Professor of Information Systems and Business Analytics<br>College of Business · University of Wisconsin–Eau Claire</p>
-<h2>About Me</h2>
-<p>I am a tenured Associate Professor of Information Systems and Business Analytics at the University of Wisconsin–Eau Claire.</p>
+<h1>About Me</h1>
 <p>My academic work examines human behavior in digital environments, particularly how individuals interact with information and technology, evaluate information quality, and make decisions in technology-mediated contexts.</p>
 <p>My published research addresses digital behavior, information sharing and verification, privacy, cybersecurity, and technology use. My current research interests increasingly focus on information quality, trust, and human–AI interaction, including the evaluation of AI-generated information and AI-supported learning.</p>
 <p>In addition to research, I teach and develop undergraduate courses in Information Systems, Business Analytics, and artificial intelligence. My educational approach emphasizes conceptual foundations, analytical reasoning, and the critical evaluation of information and technological systems.</p>
