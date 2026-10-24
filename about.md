@@ -5,7 +5,6 @@ slug: about
 permalink: /about/
 ---
 <section class="section"><div class="wrap content">
-<div class="eyebrow">About · Academic Biography · Curriculum Vitae</div>
 <h1>Sarbottam Bhagat, PhD, MBA</h1>
 <p class="lead">Associate Professor of Information Systems and Business Analytics<br>College of Business · University of Wisconsin–Eau Claire</p>
 <h2>About Me</h2>
