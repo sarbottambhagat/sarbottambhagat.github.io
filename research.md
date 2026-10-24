@@ -7,19 +7,20 @@ permalink: /research/
 <section class="section"><div class="wrap content">
 <div class="eyebrow">Behavioral Information Systems</div>
 <h1>Research &amp; Publications</h1>
-<h2>Research Overview</h2>
+<nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#research-overview">Overview</a></li><li><a href="#research-areas">Research Areas</a></li><li><a href="#selected-contributions">Selected Contributions</a></li><li><a href="#research-grants">Research Grants</a></li><li><a href="#journal-articles">Journal Articles</a></li></ul></nav>
+<h2 id="research-overview">Research Overview</h2>
 <p class="lead">My research focuses on human behavior in digital environments, examining how individuals perceive, evaluate, and respond to information and technology. Grounded in behavioral Information Systems research, I investigate the individual, social, and contextual factors that influence information-related judgments, technology use, and digital behaviors.</p>
 <p>My published research addresses information sharing and verification, privacy-related decisions, cybersecurity behaviors, and user experiences with digital technologies. Across these contexts, I am interested in understanding how perceptions, motivations, social influences, and technological characteristics shape people's decisions and actions.</p>
 <p>An increasingly important direction of my research concerns information quality, trust, and human–AI interaction. Building on my earlier work on digital information evaluation and behavior, my current research examines how individuals assess AI-generated information and interact with AI-supported systems, particularly in healthcare and education.</p>
 <p>My research draws on behavioral theory and quantitative empirical methods, with collaborative work also incorporating computational approaches to analyzing digital interactions.</p>
-<h2>Research Areas</h2>
+<h2 id="research-areas">Research Areas</h2>
 <h3>Digital Behavior and Technology Use</h3>
 <p>How do individual characteristics, social influences, perceived benefits and risks, and technological features shape people's interactions with digital systems? My research in this area examines information sharing, location disclosure, protective cybersecurity practices, and engagement with digital technologies. These studies investigate how individuals navigate social motivations, privacy concerns, technological experiences, and other factors influencing their behavior.</p>
 <h3>Information Evaluation, Quality, and Trust</h3>
 <p>What influences how individuals evaluate digital information, and how do those evaluations shape subsequent decisions? This research examines information credibility, quality, trust, and verification behavior, particularly where information is widely shared and its reliability may be uncertain. My published work includes studies of news sharing and misinformation verification on social media, as well as collaborative research on information and support interactions in online health communities.</p>
 <h3>Human–AI Interaction and AI-Mediated Decisions</h3>
 <p>How do questions about information evaluation and digital behavior change when individuals interact with AI systems? My current research extends these interests to AI-generated information and AI-supported interactions, including information quality, trust, learning processes, and human judgment in healthcare and education. This is an evolving direction of my research, building on established work in behavioral Information Systems and digital information evaluation.</p>
-<h2>Selected Research Contributions</h2>
+<h2 id="selected-contributions">Selected Research Contributions</h2>
 <h3>Information Sharing and Verification</h3>
 <div class="pub"><strong>Curbing Dissemination of Fake News (2025)</strong> — <em>ACM SIGMIS Database</em><p>This study investigates factors influencing information verification behavior on social media, including information quality, trust, awareness of misinformation, verification costs, and truth-seeking motivation. It contributes to understanding why individuals undertake the effort of verifying information in digital environments.</p></div>
 <div class="pub"><strong>Examining Users' News Sharing Behaviour on Social Media (2023)</strong> — <em>Behaviour &amp; Information Technology</em><p>Drawing on the Elaboration Likelihood Model and Social Influence Theory, this study examines how news quality, source credibility, perceived civic engagement, and social influences relate to news-sharing behavior.</p></div>
@@ -29,13 +30,13 @@ permalink: /research/
 <h3>Technology-Mediated Experiences and Information Support</h3>
 <div class="pub"><strong>Emotional and Informational Dynamics in Online Health Communities (2025)</strong> — <em>Information Systems Frontiers</em><p>This collaborative study uses multimodal machine learning to examine emotional and informational support in online health community interactions and how these forms of support coexist in question–response exchanges.</p></div>
 <div class="pub"><strong>From Game to Beyond Game (2025)</strong> — <em>Decision Support Systems</em><p>This study investigates how rendering technology and user needs relate to immersion and virtual consumption in metaverse environments, extending the study of digital behavior to immersive technology experiences.</p></div>
-<h2>Research Grants &amp; Funding</h2>
+<h2 id="research-grants">Research Grants &amp; Funding</h2>
 <p>My research has received $31,000 in internal funding through four College of Business Research Grants at the University of Wisconsin–Eau Claire (2024–2026).</p>
 <div class="pub"><h3>Navigating AI Teaching Assistants: How Perceptions and Interactions Shape Student Engagement, Cognition, and Learning</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Co-Principal Investigator · Summer 2026 · $8,000</p></div>
 <div class="pub"><h3>Understanding Antecedents of AI Healthcare Assistant Adoption</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2026 · $8,000</p></div>
 <div class="pub"><h3>Mitigating the Propagation of Fake News: Understanding Factors Shaping Information Verification Behavior</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2025 · $8,000</p></div>
 <div class="pub"><h3>Cybersecurity Awareness and Adaptive Behavior: Does Prior Exposure Lead to Adaptive Behavior?</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2024 · $7,000</p></div>
-<h2>Published Journal Articles</h2>
+<h2 id="journal-articles">Published Journal Articles</h2>
 <h3>2026</h3>
 <div class="pub">Bhagat, S., &amp; Pravin, D. P. (2026). Understanding Protective Cybersecurity Behaviors: Effects of Education, Experience, and Awareness. <em>Information Systems Management</em>. <a href="https://doi.org/10.1080/10580530.2026.2647719">DOI ↗</a></div>
 <h3>2025</h3>
