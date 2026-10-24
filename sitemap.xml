@@ -1,11 +1,9 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% assign pages_to_index = site.pages | where_exp: "p", "p.permalink" %}
-{% for page in pages_to_index %}{% unless page.slug == nil or page.url contains '404' %}
-  <url><loc>{{ page.url | absolute_url | xml_escape }}</loc></url>
-{% endunless %}{% endfor %}
-  <url><loc>{{ '/' | absolute_url }}</loc></url>
+  <url><loc>https://sarbottambhagat.github.io/</loc></url>
+  <url><loc>https://sarbottambhagat.github.io/about/</loc></url>
+  <url><loc>https://sarbottambhagat.github.io/applied-data-science/</loc></url>
+  <url><loc>https://sarbottambhagat.github.io/engagement/</loc></url>
+  <url><loc>https://sarbottambhagat.github.io/research/</loc></url>
+  <url><loc>https://sarbottambhagat.github.io/teaching/</loc></url>
 </urlset>
