@@ -5,7 +5,6 @@ slug: engagement
 permalink: /engagement/
 ---
 <section class="section"><div class="wrap content">
-<div class="eyebrow">Academic Service · Professional Engagement</div>
 <h1>Engagement &amp; Collaboration</h1>
 <nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#academic-service">Academic Service</a></li><li><a href="#university-engagement">University Engagement</a></li><li><a href="#industry-engagement">Industry Engagement</a></li><li><a href="#professional-education">Professional Education</a></li><li><a href="#collaboration">Collaboration</a></li></ul></nav>
 <p class="lead">My professional engagement connects Information Systems scholarship, academic service, technology education, and organizational practice.</p>
