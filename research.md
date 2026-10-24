@@ -5,7 +5,6 @@ slug: research
 permalink: /research/
 ---
 <section class="section"><div class="wrap content">
-<div class="eyebrow">Behavioral Information Systems</div>
 <h1>Research &amp; Publications</h1>
 <nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#research-overview">Overview</a></li><li><a href="#research-areas">Research Areas</a></li><li><a href="#selected-contributions">Selected Contributions</a></li><li><a href="#research-grants">Research Grants</a></li><li><a href="#journal-articles">Journal Articles</a></li></ul></nav>
 <h2 id="research-overview">Research Overview</h2>
