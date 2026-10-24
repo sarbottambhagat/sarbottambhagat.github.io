@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 <section class="hero"><div class="wrap hero-layout"><div class="hero-copy">
-<div class="eyebrow">Sarbottam Bhagat, PhD, MBA · Associate Professor of Information Systems and Business Analytics · University of Wisconsin–Eau Claire</div>
 <h1>Understanding Human Behavior in a Digital World</h1>
 <p class="lead">I am an Information Systems scholar studying how people evaluate information, interact with digital technologies, and make decisions in technology-mediated environments.</p>
 <p>My research examines digital behavior, information quality, trust, and human–AI interaction. I also develop and teach courses in business analytics, machine learning, and AI, connecting analytical methods with business problems and responsible decision-making.</p>
