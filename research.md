@@ -29,6 +29,12 @@ permalink: /research/
 <h3>Technology-Mediated Experiences and Information Support</h3>
 <div class="pub"><strong>Emotional and Informational Dynamics in Online Health Communities (2025)</strong> — <em>Information Systems Frontiers</em><p>This collaborative study uses multimodal machine learning to examine emotional and informational support in online health community interactions and how these forms of support coexist in question–response exchanges.</p></div>
 <div class="pub"><strong>From Game to Beyond Game (2025)</strong> — <em>Decision Support Systems</em><p>This study investigates how rendering technology and user needs relate to immersion and virtual consumption in metaverse environments, extending the study of digital behavior to immersive technology experiences.</p></div>
+<h2>Research Grants &amp; Funding</h2>
+<p>My research has received $31,000 in internal funding through four College of Business Research Grants at the University of Wisconsin–Eau Claire (2024–2026).</p>
+<div class="pub"><h3>Navigating AI Teaching Assistants: How Perceptions and Interactions Shape Student Engagement, Cognition, and Learning</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Co-Principal Investigator · Summer 2026 · $8,000</p></div>
+<div class="pub"><h3>Understanding Antecedents of AI Healthcare Assistant Adoption</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2026 · $8,000</p></div>
+<div class="pub"><h3>Mitigating the Propagation of Fake News: Understanding Factors Shaping Information Verification Behavior</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2025 · $8,000</p></div>
+<div class="pub"><h3>Cybersecurity Awareness and Adaptive Behavior: Does Prior Exposure Lead to Adaptive Behavior?</h3><p>College of Business Research Grant, University of Wisconsin–Eau Claire<br>Principal Investigator · Summer 2024 · $7,000</p></div>
 <h2>Published Journal Articles</h2>
 <h3>2026</h3>
 <div class="pub">Bhagat, S., &amp; Pravin, D. P. (2026). Understanding Protective Cybersecurity Behaviors: Effects of Education, Experience, and Awareness. <em>Information Systems Management</em>. <a href="https://doi.org/10.1080/10580530.2026.2647719">DOI ↗</a></div>
