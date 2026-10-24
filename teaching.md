@@ -5,7 +5,6 @@ slug: teaching
 permalink: /teaching/
 ---
 <section class="section"><div class="wrap content">
-<div class="eyebrow">Teaching · Curriculum · Student Mentorship</div>
 <h1>Teaching &amp; Curriculum Development</h1>
 <nav class="page-toc" aria-label="On this page"><strong>On this page</strong><ul><li><a href="#curriculum">Curriculum Development</a></li><li><a href="#teaching-areas">Teaching Areas</a></li><li><a href="#philosophy">Teaching Philosophy</a></li><li><a href="#mentorship">Student Mentorship</a></li></ul></nav>
 <p class="lead">My teaching helps students understand how information, technology, and analytical methods shape organizations, business processes, and decision-making.</p>
